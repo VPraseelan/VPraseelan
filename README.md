@@ -29,11 +29,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Prasheelan KV 😌🙋🏻‍♂️" height="30" width="40" style="max-width: 100%;">
 </a>
 
-<!--Youtube-->
-<a href="<a href="https://www.youtube.com/c/branlivinston" rel="nofollow">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@TalkTreasure" height="30" width="40" style="max-width: 100%;">
-</a>
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@TalkTreasure" height="30" width="40" style="max-width: 100%;">
 
 <!--Hackerank-->
 <a href="https://www.hackerrank.com/profile/praseelan10" rel="nofollow">
